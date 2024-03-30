@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Haggui_Akram_mesure_Glycemie</string>
+    <string name="title">Mesure de niveau de \n glycémie</string>
+    <string name="oui">Oui</string>
+    <string name="non">Non</string>
+    <string name="textAge">Votre Age:</string>
+    <string name="jeuner">Est-ce-que vous jeunez ?</string>
+</resources>
